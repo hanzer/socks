@@ -9,7 +9,7 @@ A complete example using this package:
 	package main
 
 	import (
-		"h12.me/socks"
+		"github.com/hanzer/socks"
 		"fmt"
 		"net/http"
 		"io/ioutil"
